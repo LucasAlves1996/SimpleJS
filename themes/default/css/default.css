@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(230,230,230);
+}
+
+h1{
+  text-align: center;
+}
+
+.error404{
+  color: rgb(150,50,50);
+  padding: 20px 0px;
+  font-weight: bold;
+  font-size: 50px;
+}
